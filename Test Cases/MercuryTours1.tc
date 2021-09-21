@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se realiza registro de nuevo usuariuo y validacion con credenciales del usuario creado.</description>
+   <name>MercuryTours1</name>
+   <tag>aa</tag>
+   <comment></comment>
+   <testCaseGuid>e5bb1341-3e6e-4077-9688-872349475b5d</testCaseGuid>
+</TestCaseEntity>
